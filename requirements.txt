@@ -22,4 +22,5 @@ theme-darcula
 tskit>=0.5
 msprime>=1.0
 tsinfer
+tsdate
 jupyterquiz
